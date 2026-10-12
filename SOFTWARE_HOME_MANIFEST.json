@@ -1,0 +1,179 @@
+{
+  "source": "/home/pi",
+  "created_at_utc": "2026-10-12T07:37:37.932231+00:00",
+  "files": 183517,
+  "apparent_bytes": 16556964814,
+  "excluded": [
+    {
+      "path": ".dbus/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".ipython/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".jupyter/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".mozilla/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".presage/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".ssh/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".openclaw/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".pp_backup/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".docker/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".config/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": "yahboom_aloha_mini/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".pki/",
+      "reason": "Credential/account state or generated GitHub upload copy"
+    },
+    {
+      "path": ".lgd-nfy0",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": ".Xauthority",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": ".npmrc",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": ".xsession-errors",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": ".bash_history",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": ".lesshst",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": ".viminfo",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": ".wget-hsts",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": ".xsession-errors.old",
+      "reason": "Private root account/session/history file"
+    },
+    {
+      "path": "Demo_Python/.lgd-nfy0",
+      "reason": "Socket, pipe, or special file"
+    },
+    {
+      "path": "lerobot_alohamini/.git/",
+      "reason": "Nested Git metadata and history, not required to run installed software"
+    },
+    {
+      "path": ".local/share/Trash/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": ".local/share/io.github.clash-verge-rev.clash-verge-rev/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": ".local/share/keyrings/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": ".local/share/recently-used.xbel",
+      "reason": "Potential credential file"
+    },
+    {
+      "path": ".local/share/jupyter/runtime/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": ".npm-global/lib/node_modules/openclaw/node_modules/bottleneck/.env",
+      "reason": "Potential credential file"
+    },
+    {
+      "path": ".cache/Proton/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": ".cache/io.github.clash-verge-rev.clash-verge-rev/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": ".cache/mozilla/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": ".cache/Microsoft/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": ".cache/chromium/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": "ultralytics26/data/.env",
+      "reason": "Potential credential file"
+    },
+    {
+      "path": "miniforge3/envs/lerobot_alohamini/lib/python3.12/site-packages/cmake/data/share/cmake-4.1/Templates/Windows/Windows_TemporaryKey.pfx",
+      "reason": "Potential credential file"
+    },
+    {
+      "path": "ultralytics/.git/",
+      "reason": "Nested Git metadata and history, not required to run installed software"
+    },
+    {
+      "path": "ultralytics/ultralytics/data/.env",
+      "reason": "Potential credential file"
+    },
+    {
+      "path": ".npm/_logs/",
+      "reason": "Authentication, browser/VPN/account state, or trash"
+    },
+    {
+      "path": "miniforge3/pkgs/libssh2-1.11.1-h7572e3e_1/share/doc/libssh2/NEWS",
+      "reason": "API-key or private-key scanner finding in optional documentation"
+    },
+    {
+      "path": "miniforge3/share/doc/libssh2/NEWS",
+      "reason": "API-key or private-key scanner finding in optional documentation"
+    },
+    {
+      "path": "ultralytics/docs/overrides/javascript/extra.js",
+      "reason": "API-key or private-key scanner finding in optional documentation"
+    }
+  ],
+  "note": "Installed software, environments, caches and oversized project files included. Credential/account state, nested Git history and generated upload repository excluded. Hard links preserve a live-file snapshot; source files are not modified.",
+  "source_os": "Debian 12 bookworm",
+  "architecture": "aarch64 / ARM64"
+}
