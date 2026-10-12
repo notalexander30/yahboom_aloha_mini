@@ -8,6 +8,10 @@ Use a 64-bit ARM Raspberry Pi with a compatible Debian 12 / Raspberry Pi OS Book
 
 This is a copy of the existing software state, not an SD-card image or proof that every package/application works. It does not include the source Pi's /usr, /etc, drivers, system services or full operating system. The included Debian package inventory and OS details are references for installing required system dependencies.
 
+## Direct restore on a fresh Pi
+
+For a workflow that avoids a second full extracted copy, see [DIRECT_RESTORE.md](DIRECT_RESTORE.md). The staged inspection workflow below requires more free space.
+
 ## Download and verify
 
 Download download-software.py from this release, then run it with Python 3 on the destination Pi. It downloads the assets into pi-home-download and verifies SHA256SUMS.
