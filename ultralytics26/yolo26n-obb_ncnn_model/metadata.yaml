@@ -1,0 +1,33 @@
+description: Ultralytics YOLO26n-obb model trained on /home/mason/code/ultralytics/ultralytics/cfg/datasets/DOTAv1.yaml
+author: Ultralytics
+date: '2026-03-04T18:41:53.695507'
+version: 8.4.19
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: obb
+batch: 1
+imgsz:
+- 1024
+- 1024
+names:
+  0: plane
+  1: ship
+  2: storage tank
+  3: baseball diamond
+  4: tennis court
+  5: basketball court
+  6: ground track field
+  7: harbor
+  8: bridge
+  9: large vehicle
+  10: small vehicle
+  11: helicopter
+  12: roundabout
+  13: soccer ball field
+  14: swimming pool
+args:
+  batch: 1
+  half: false
+channels: 3
+end2end: false
