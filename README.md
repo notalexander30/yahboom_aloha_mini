@@ -18,3 +18,7 @@ Project-specific README and LICENSE files remain within their respective directo
 - `ultralytics/`: existing Ultralytics checkout from the Pi.
 
 Secrets and installed dependency environments must not be added to this public repository.
+
+## Installed software for another Pi
+
+The installed software and shareable home files are available as split archives in the [Pi software release](https://github.com/notalexander30/yahboom_aloha_mini/releases/tag/pi-home-software-2026-10-12). This includes Miniforge environments, .local packages, caches and oversized files omitted from the regular Git tree. See [PI_RESTORE.md](PI_RESTORE.md) for downloading and restoring on a compatible ARM64 Debian 12 Pi. Credential/account state is excluded.
