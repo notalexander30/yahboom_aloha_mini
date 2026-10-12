@@ -1,0 +1,26 @@
+# Private state and generated dependencies
+.ssh/
+.config/
+.mozilla/
+.openclaw/
+.pki/
+.cache/
+.local/
+miniforge3/
+**/.git/
+**/__pycache__/
+**/.venv/
+**/venv/
+**/env/
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.sample
+!**/.env.template
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/*.pyc
+**/*.pyo

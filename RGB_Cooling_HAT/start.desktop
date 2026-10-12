@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Exec=lxterminal -e bash -c "sh /home/pi/RGB_Cooling_HAT/start.sh;$SHELL"
+Terminal=true
+

@@ -1,0 +1,473 @@
+{
+  "source": "/home/pi",
+  "created": "2026-10-12",
+  "copied_files": 5317,
+  "copied_bytes": 1677457488,
+  "excluded": [
+    {
+      "path": ".keras/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".local/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".dbus/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".ipython/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".jupyter/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".mozilla/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".npm-global/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".presage/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".ssh/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".openclaw/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".vscode-server/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".pp_backup/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".conda/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".cache/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".docker/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".config/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": "miniforge3/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".pki/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".dotnet/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".npm/",
+      "reason": "Private account/application state or installed software/cache"
+    },
+    {
+      "path": ".lgd-nfy0",
+      "reason": "Private account/session/history file",
+      "bytes": 0
+    },
+    {
+      "path": ".Xauthority",
+      "reason": "Private account/session/history file",
+      "bytes": 56
+    },
+    {
+      "path": ".npmrc",
+      "reason": "Private account/session/history file",
+      "bytes": 65
+    },
+    {
+      "path": ".xsession-errors",
+      "reason": "Private account/session/history file",
+      "bytes": 34472
+    },
+    {
+      "path": ".bash_history",
+      "reason": "Private account/session/history file",
+      "bytes": 1694
+    },
+    {
+      "path": ".lesshst",
+      "reason": "Private account/session/history file",
+      "bytes": 20
+    },
+    {
+      "path": "Clash.Verge_2.5.5_arm64.deb",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 98539636
+    },
+    {
+      "path": ".viminfo",
+      "reason": "Private account/session/history file",
+      "bytes": 10828
+    },
+    {
+      "path": ".wget-hsts",
+      "reason": "Private account/session/history file",
+      "bytes": 315
+    },
+    {
+      "path": ".xsession-errors.old",
+      "reason": "Private account/session/history file",
+      "bytes": 33297
+    },
+    {
+      "path": "Demo_Python/.lgd-nfy0",
+      "reason": "Socket, pipe, or special file",
+      "bytes": 0
+    },
+    {
+      "path": "lerobot_alohamini/.git/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "lerobot_alohamini/src/lerobot/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "lerobot_alohamini/src/lerobot/utils/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "lerobot_alohamini/src/lerobot/scripts/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yolov5-USB/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yolov5-USB/utils/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yolov5-USB/models/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "Downloads/proton-vpn-install/protonvpn-stable-release_1.0.8_all.deb",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 4852
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_linefollw/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_linefollw/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 180
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_linefollw/cfg/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_linefollw/cfg/LineDetectPIDConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 2703
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_linefollw/cfg/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 184
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_astra/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_astra/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 176
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_astra/cfg/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_astra/cfg/ColorTrackerPIDConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 2103
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_astra/cfg/ColorHSVConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 1857
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_astra/cfg/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 180
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_bringup/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 178
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_bringup/cfg/PatrolParamConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 4559
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_bringup/cfg/CalibrateLinearConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 2686
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_bringup/cfg/CalibrateAngularConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 1958
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_bringup/cfg/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 182
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_bringup/cfg/PIDparamConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 1997
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 175
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/msg/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/msg/_Image_Msg.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 6228
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/msg/_TargetArray.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 7917
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/msg/_Target.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 7240
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/msg/_Position.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 5537
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/msg/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 327
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_msgs/msg/_PointArray.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 6308
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_laser/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 176
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_laser/cfg/laserAvoidPIDConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 1850
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_laser/cfg/laserWarningPIDConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 1954
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_laser/cfg/laserTrackerPIDConfig.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 2374
+    },
+    {
+      "path": "yahboomcar_ws/devel/lib/python2.7/dist-packages/yahboomcar_laser/cfg/__init__.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 180
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_linefollw/scripts/follow_common.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 10149
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_astra/scripts/astra_common.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 7660
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_bringup/scripts/transform_utils.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 1042
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_slam/param/ORBvoc.txt",
+      "reason": "At or above GitHub regular-Git 100 MiB file limit",
+      "bytes": 145250924
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_yolov5/scripts/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_voice_ctrl/scripts/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_laser/scripts/common.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 2821
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_multi/scripts/singlePID.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 1714
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/line_detect.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 9840
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/Turn_Right.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 10171
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/follow_common.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 10314
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/yolov5_trt.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 12554
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/transform_utils.pyc",
+      "reason": "Key material, installer, or generated Python cache",
+      "bytes": 1060
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/utils/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/utils/wandb_logging/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yahboomcar_ws/src/yahboomcar_autodrive/scripts/models/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics26/yolo26n_ncnn_model/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics26/yolo26n-pose_ncnn_model/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics26/yolo26n-seg_ncnn_model/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics26/data/.env",
+      "reason": "Potential credential file",
+      "bytes": 63
+    },
+    {
+      "path": "ultralytics26/data/yahboom_data/orange_video/orange.mkv",
+      "reason": "At or above GitHub regular-Git 100 MiB file limit",
+      "bytes": 131335542
+    },
+    {
+      "path": "ultralytics26/data/yahboom_data/orange_data/runs/detect/train/weights/best_ncnn_model/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics26/yolo26n-cls_ncnn_model/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics26/yolo26n-obb_ncnn_model/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "Demo_Project/env/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics/.git/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics/ultralytics/data/.env",
+      "reason": "Potential credential file",
+      "bytes": 63
+    },
+    {
+      "path": "ultralytics/ultralytics/data/yahboom_data/orange_video/orange.mkv",
+      "reason": "At or above GitHub regular-Git 100 MiB file limit",
+      "bytes": 131335542
+    },
+    {
+      "path": "yolov5-CSI/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yolov5-CSI/utils/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "yolov5-CSI/models/__pycache__/",
+      "reason": "Existing Git metadata, cache, or installed dependency environment"
+    },
+    {
+      "path": "ultralytics/docs/overrides/javascript/extra.js",
+      "reason": "Secret scanner finding: generic-api-key"
+    }
+  ],
+  "note": "Current-file snapshot; nested repositories retain source files, not their Git history."
+}

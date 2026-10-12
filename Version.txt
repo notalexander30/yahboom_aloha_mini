@@ -1,0 +1,26 @@
+SDCard Pi-OS-ROS NO.83 , Version: 1.2.3, Released 20260317
+
+镜像名称：Pi-OS-ROS_2026_03_17.img
+树莓派系统信息：
+账号：pi
+密码：yahboom
+WiFi热点：
+名称：Pi_Hot
+密码：12345678
+访问jupyterlab:IP:8888
+jupyterlab密码：yahboom
+环境：Python 3.11.2、Opencv 4.8.1、Docker、Jupyter lab
+功能：开启SSH、VNC，Docker（ROS1、ROS2）、开机自启热点、接上oled屏会自动显示ip信息、安装了cube_pi库等
+
+
+Image name: Pi-OS-ROS_2025_03_19.img
+Raspberry Pi system information:
+Account: pi
+Password:yahboom
+WiFi hotspot:
+Name: Pi_Hot
+Password: 12345678
+Visit jupyterlab:IP:8888
+jupyterlab password: yahboom
+Environment: Python 3.11.2, Opencv 4.8.1, Docker, Jupyter lab
+Function: Enable SSH, VNC, Docker (ROS1, ROS2), auto-start hotspot at boot,Connecting to the OLED screen will automatically display IP information, and the cube_pi library has been installed etc.
